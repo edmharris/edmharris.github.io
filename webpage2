@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="ehstyle2.css">
+</head>
 
+<div class="header">
+  <h1>Ewan Harris</h1>
+  <p>A journey through his life</p>
+  <h2>Travel</h2>
+</div>
+
+<body>
+
+<div class="life">
+    <h2>Africa</h2>
+    <p>Ngorongoro Crater</p>
+    <p>More description</p>
+	<img src="C:\Courses\101WDP\Assignment2\CharlesPostiauxUnsplashLondon.jpg" alt="Picture of London Bridge courtesy of Charles Postiaux on Unsplash" width=600;height=400;">
+	<img src="https://maps.googleapis.com/maps/api/staticmap?center=Ngorongoro+Crater+Tanzania&zoom=10&size=300x200%20%20&markers=color:green%7Clabel:N%7C-3.164733,%2035.573569%20&maptype=terrain&scale=2&key=AIzaSyCM-WWHYHIKY-do4kquMy9Z4wQaQx51AuE&;">
+	</div>
+
+<div class="life">
+    <h2>China</h2>
+    <p>Xian</p> 
+    <p>More description</p>
+	<img src="C:\Courses\101WDP\Assignment2\CharlesPostiauxUnsplashLondon.jpg" alt="Picture of London Bridge courtesy of Charles Postiaux on Unsplash" width=600;height=400;">
+	<img src="https://maps.googleapis.com/maps/api/staticmap?center=Xi'An,+Shaanxi,+China&zoom=5&size=300x200%20%20&maptype=terrain&scale=2&key=AIzaSyCM-WWHYHIKY-do4kquMy9Z4wQaQx51AuE&;">
+</div>
+
+<div class="life">
+    <h2>India</h2>
+    <p>Jodhpur</p>
+    <p>More description</p>
+	<img src="C:\Courses\101WDP\Assignment2\CharlesPostiauxUnsplashLondon.jpg" alt="Picture of London Bridge courtesy of Charles Postiaux on Unsplash" width=600;height=400;">
+	<img src="https://maps.googleapis.com/maps/api/staticmap?center=Jodhpur,+Rajasthan,+India&zoom=6&size=300x200%20%20&maptype=terrain&scale=2&key=AIzaSyCM-WWHYHIKY-do4kquMy9Z4wQaQx51AuE&;">
+ </div>
+  
+</body>
+
+</html>
